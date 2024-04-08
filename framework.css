@@ -49,42 +49,6 @@
 }
 
 
-/************ JUSTIFY CONTENT ************/
-.content-start {
-    justify-content: flex-start;
-}
-
-.content-center {
-    justify-content: center;
-}
-
-.content-end {
-    justify-content: flex-end;
-}
-
-.content-between {
-    justify-content: space-between;
-}
-
-.content-around {
-    justify-content: space-around;
-}
-
-
-/************ ALIGN ************/
-.align-start {
-    align-items: flex-start;
-}
-
-.align-center {
-    align-items: center;
-}
-
-.align-end {
-    align-items: flex-end;
-}
-
-
 /************ COLUMNS ************/
 .col-1 {
     flex-basis: calc( ( 100% / 12 ) * 1);
